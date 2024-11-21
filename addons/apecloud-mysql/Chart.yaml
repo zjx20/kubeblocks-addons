@@ -19,6 +19,8 @@ icon: https://kubeblocks.io/img/logo.png
 maintainers:
   - name: xuriwuyun
     url: https://github.com/apecloud/kubeblocks/
+  - name: zjx20
+    url: https://github.com/apecloud/kubeblocks/
 
 sources:
 - https://github.com/apecloud/kubeblocks/
